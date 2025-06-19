@@ -1,0 +1,8 @@
+BACKUP CREATED ON: 2025-06-10 18:38:23
+==================================================
+LANGHAM HOTEL MANAGEMENT SYSTEM
+Room Allocation Report
+==================================================
+Generated on: 2025-06-10 18:38:11
+
+No rooms currently allocated.
